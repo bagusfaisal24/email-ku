@@ -1,0 +1,6 @@
+app:
+server:
+    port: 8080
+sendgrid:
+    api:
+        key: "your send grid API key"
