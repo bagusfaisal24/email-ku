@@ -9,3 +9,11 @@ Simple Send Email Using Sendgrid API
 - Set API key Sendgrid in ```application.yml ``` file
 - lombok annotation library
 
+## Example request
+```
+{
+	"emailFrom":"emailfrom@gmail.com",
+	"target":"target_email@gmail.com"
+	
+}
+```
